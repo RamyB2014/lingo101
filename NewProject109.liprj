@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LingoProject TargetLanguage="ar;es" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlDatabaseRoot="D:\C-Drive\rbutros\Documents\My Translated Projects\NewProject109.liprjf" SourceControlDatabase="D:\C-Drive\rbutros\Documents\My Translated Projects\NewProject109.liprjf\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="62bbe32d-a38e-41c1-9467-2cf948119027">
+<LingoProject TargetLanguage="ar;es" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlDatabaseRoot="C:\Users\rallahwerdy\Documents\My Translated Projects\NewProject109cca" SourceControlDatabase="C:\Users\rallahwerdy\Documents\My Translated Projects\NewProject109cca\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="62bbe32d-a38e-41c1-9467-2cf948119027">
     <ProjectFile Source="Target/SVN Image Lingo Test.flprj" Target="Target/SVN Image Lingo Test.flprj" />
 </LingoProject>
